@@ -1,0 +1,26 @@
+{
+  "name": "hyper-cool-theme",
+  "version": "0.0.1",
+  "description": "A beautiful dark theme for Hyper terminal",
+  "main": "index.js",
+  "keywords": [
+    "theme",
+    "dark",
+    "hyper",
+    "hyper-theme",
+    "color-theme",
+    "cool-theme"
+  ],
+  "author": {
+    "name": "Kishan Jadav",
+    "email": "kishan_jadav@hotmail.com",
+    "url": "https://github.com/kishannareshpal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishannareshpal/hyper-cool-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kishannareshpal/hyper-cool-theme/issues"
+  }
+}
